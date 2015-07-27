@@ -17,7 +17,7 @@ set exrc                    " enable per-directory .vimrc files
 set secure                  " disable unsafe commands in local .vimrc files
 
 
-set spell                   " spell checking on
+"set spell                   " spell checking on
 set scrolloff=8             " minimum lines to keep above and below cursor
 set mouse=a                 " automatically enable mouse usage
 
